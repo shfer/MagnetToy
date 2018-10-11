@@ -1,2 +1,3 @@
 # MagnetToy
-# MagnetToy
+
+See notebook for details
